@@ -1,0 +1,26 @@
+body {
+	width: 600px;
+	margin: 100px auto;
+	font-family: Calibri, sans-serif;
+}
+
+button {
+	width: 100%;
+}
+
+div.post {
+	border-bottom: 1px solid silver;
+}
+
+div.post:last-child {
+	border: none;
+}
+
+div.post img {
+	float: left;
+	width: 50px;
+}
+
+div.post p {
+	padding-left: 55px;
+}
